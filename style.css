@@ -7,8 +7,14 @@
 }
 
 body {
-    font-family: "Inter var", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    -webkit-font-smoothing: antialiased;
+    font-family: Arial, sans-serif; /* Makes text look cleaner */
+    background-color: #f4f4f4; /* Light gray background */
+    color: #333; /* Dark gray text */
+    text-align: center; /* Centers all text */
+}
+
+h1 {
+    color: #0077cc; /* Blue header */
 }
 
 a {
